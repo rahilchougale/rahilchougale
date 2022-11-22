@@ -7,5 +7,6 @@ Green
 Shine
 Blue
 white
+indigo
 these are the colors of the rainbow
 and the Shine
