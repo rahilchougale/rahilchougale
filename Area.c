@@ -2,13 +2,13 @@ Area of the Circle program
 #include<stdio.h>
  
 int main() {
-   float radius, area;
+   float r, A;
  
    printf("\nEnter the radius of Circle : ");
-   scanf("%d", &radius);
+   scanf("%d", &r);
  
-   area = 3.14 * radius * radius;
-   printf("\nArea of Circle : %f", area);
+   A = 3.14 * r * r;
+   printf("\nArea of Circle : %f", A);
  
    return (0);
 }
