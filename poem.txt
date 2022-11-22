@@ -3,5 +3,6 @@ The rainbow
 purple
 green
 yellow
+Green
 white
 these are the colors of the rainbow
